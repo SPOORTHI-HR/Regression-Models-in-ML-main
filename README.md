@@ -41,7 +41,7 @@ R² Score
 Cross-validation scores
 
 🛠️ How to Run
-Clone this repository:
+Clone this repository: https://github.com/SPOORTHI-HR/Regression-Models-in-ML-main
 
 bash
 Copy
@@ -62,7 +62,7 @@ jupyter notebook housing-data-regression.ipynb
 🙌 Collaborators
 Spoorthi H R– Creator and primary developer
 
-Victor – Contributor and collaborator on model evaluation and documentation
+https://github.com/Victor-Ikechukwu/Victor-Ikechukwu -  Contributor and collaborator on model evaluation and documentation
 
 📃 License
 This project is open source and available under the MIT License
